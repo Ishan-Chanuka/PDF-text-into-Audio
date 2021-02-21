@@ -1,0 +1,11 @@
+Before execute this code you have to install pyttsx3 & PyPDF2 to your computer.
+To install, open your command prompt (cmd) on Windows, terminal on Linux and run below commands.
+
+pyttsx3 - pip install pyttsx3
+
+PyPDF2 - pip install PyPDF2
+
+Now you can copy the code to your project and execute it.
+(Important: You have to include the pdf file in the project location)
+
+==ENJOY!==
